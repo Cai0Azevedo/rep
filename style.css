@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.botao1{
+
+    background-color: rgb(83, 166, 255);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    padding: 12px;
+    border-radius: 22px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color:azure;
+}
+
+
+
+.botao1:hover{
+
+    background-color: rgb(130, 90, 249);
+    transition: 1s;
+
+}
+
+body{
+
+    background-color: rgba(135, 255, 215, 0.653);
+
+}
